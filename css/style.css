@@ -84,3 +84,11 @@ h3 {
   height: 100px;
   width: 100px;
 }
+
+.bot {
+  text-decoration: underline;
+}
+
+.start {
+  text-decoration: underline;
+}
