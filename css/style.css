@@ -29,8 +29,8 @@ ul {
   
   /* Change the link color to #111 (black) on hover */
   li a:hover {
-    background-color: rgb(0, 214, 252);
-    color: black;
+    background-color: #10199b;
+    color: white;
   }
 
   nav {
@@ -71,7 +71,10 @@ h3 {
   color: white;
 }
 
-.btn2 {background-color: #00eeff;} /* Blue */
+.btn2 {background-color: #10199b;
+  color: aliceblue;
+
+} /* Blue */
 
 .logo {
   height: 100px;
