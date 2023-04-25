@@ -71,10 +71,14 @@ h3 {
   color: white;
 }
 
-.btn2 {background-color: #10199b;
+.btn {background-color: #10199b;
   color: aliceblue;
-
-} /* Blue */
+}
+.btn:hover{
+  background-color: rgb(36, 12, 122);
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+}
 
 .logo {
   height: 100px;
